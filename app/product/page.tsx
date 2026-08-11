@@ -240,28 +240,28 @@ const sliceProducts = [
     title: 'Slice Auto-Retractable Utility Knife (10554)',
     desc: 'มีดคัตเตอร์เซรามิคนิรภัยดึงกลับอัตโนมัติ ใบมีดดึงกลับเองเมื่อปล่อยปุ่ม ปลอดภัยสูง ทนทาน ไม่เป็นสนิม',
     badge: 'Slice',
-    image: '/images/safetyBrands/product/slice/Utility Knife (10554).jpeg',
+    image: '/images/safetyBrands/product/slice/Utility Knife 10554.jpeg',
   },
   {
     id: 's2',
     title: 'Slice Manual Slim Pen Cutter (10476)',
     desc: 'มีดคัตเตอร์ปากกาเซรามิคนิรภัย ดีไซน์บางเพรียว จับถนัดมือ เหมาะสำหรับงานตัดที่ต้องการความแม่นยำ',
     badge: 'Slice',
-    image: '/images/safetyBrands/product/slice/Slim Pen Cutter (10476).jpeg',
+    image: '/images/safetyBrands/product/slice/Slim Pen Cutter 10476.jpeg',
   },
   {
     id: 's3',
     title: 'Slice Super-Safe Carton Opener (10477)',
     desc: 'มีดเปิดกล่องนิรภัยเซรามิก ออกแบบมาเพื่อเปิดกล่องพัสดุและกล่องกระดาษได้อย่างรวดเร็ว ปลอดภัยต่อสินค้าภายใน',
     badge: 'Slice',
-    image: '/images/safetyBrands/product/slice/Carton Opener (10477).jpeg',
+    image: '/images/safetyBrands/product/slice/Carton Opener 10477.jpeg',
   },
   {
     id: 's4',
     title: 'Slice Auto-Retractable Pen Cutter (10512)',
     desc: 'มีดคัตเตอร์ปากกาเซรามิคนิรภัย ระบบดึงกลับอัตโนมัติ พกพาง่าย ปลอดภัยเมื่อสัมผัสผิวหนัง',
     badge: 'Slice',
-    image: '/images/safetyBrands/product/slice/Pen Cutter (10512).png',
+    image: '/images/safetyBrands/product/slice/Pen Cutter 10512.png',
   },
 ];
 
