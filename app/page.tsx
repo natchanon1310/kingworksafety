@@ -30,11 +30,11 @@ const services = [
 
 // โลโก้แบรนด์ Fire Protection
 const fireProtectionBrands = [
-  { id: 1, name: 'Brand 1', logo: '/images/S__20848652.jpg' },
-  { id: 2, name: 'Brand 2', logo: '/images/S__20848658.jpg' },
-  { id: 3, name: 'Brand 3', logo: '/images/S__20848656.jpg' },
-  { id: 4, name: 'Brand 4', logo: '/images/S__20848655_0.jpg' },
-  { id: 5, name: 'Brand 5', logo: '/images/S__20848657.jpg' },
+  { id: 1, name: 'Brand 1', logo: '/images/product/S__20848652.jpg' },
+  { id: 2, name: 'Brand 2', logo: '/images/product/S__20848658.jpg' },
+  { id: 3, name: 'Brand 3', logo: '/images/product/S__20848656.jpg' },
+  { id: 4, name: 'Brand 4', logo: '/images/product/S__20848655_0.jpg' },
+  { id: 5, name: 'Brand 5', logo: '/images/product/S__20848657.jpg' },
 ];
 
 // โลโก้แบรนด์ Safety
